@@ -12,9 +12,7 @@ To access these deep web links, one would typically require specific tools, the 
 
 **Sample Deep Web Links List (Note: This is a fictional list for demonstration purposes only)**
 
-1. `http://example1.deepweb.link` - Academic Research Database
-2. `http://example2.deepweb.link` - Private Cloud Storage
-3. `http://example3.deepweb.link` - Digital Library
+1. `http://6uehz4gzezqgl5tin7x2n73zghwilltkwdzt3njftez55subzkuvivqd.onion/` - Tor Directory Excellent
 
 **Safety First**
 
